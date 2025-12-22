@@ -46,6 +46,7 @@ public class EmployeeWageComputationUC8 {
         System.out.println("Monthly wage of " + companyName + ": " + totalMonthlyWage);
     }
 
+
     public static void main(String[] args) {
         System.out.println("Welcome to Employee Wage Computation");
 
@@ -53,5 +54,6 @@ public class EmployeeWageComputationUC8 {
         calculateEmployeeWage("Zoho", 30, 18, 80);
         calculateEmployeeWage("FA", 5, 35, 150);
     }
+
 
 }
