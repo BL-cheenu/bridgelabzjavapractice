@@ -1,6 +1,6 @@
-package oopsandds.day8.practice;
+package oopsandds.day9;
 
-public class EmployeeWageComputationObject {
+public class EmployeeWageComputationProblem {
     public static final int FULL_TIME_EMPLOYEE = 1;
     public static final int PART_TIME_EMPLOYEE = 2;
 
