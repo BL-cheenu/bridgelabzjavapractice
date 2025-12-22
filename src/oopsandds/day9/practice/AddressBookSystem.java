@@ -1,4 +1,4 @@
-package oopsandds.day9;
+package oopsandds.day9.practice;
 
 import java.util.ArrayList;
 import java.util.List;

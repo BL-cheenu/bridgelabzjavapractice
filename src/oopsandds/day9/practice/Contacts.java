@@ -1,4 +1,4 @@
-package oopsandds.day9;
+package oopsandds.day9.practice;
 
 public class Contacts {
     private String firstName;

@@ -1,4 +1,4 @@
-package oopsandds.day9;
+package oopsandds.day9.practice;
 
 import java.util.Scanner;
 

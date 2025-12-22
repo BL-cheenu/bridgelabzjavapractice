@@ -1,4 +1,4 @@
-package oopsandds.day9;
+package oopsandds.day9.practice;
 
 public class EmployeeWageComputationProblem {
     public static final int FULL_TIME_EMPLOYEE = 1;
