@@ -18,10 +18,10 @@ public class EmployeeWageComputationProblem {
     public static double calculateDailyEmployeeWage(int isEmployeePresent) {
         double dailyWage = 0.0;
         switch (isEmployeePresent) {
-            case 1:
+            case FULL_TIME_EMPLOYEE:
                 dailyWage = calculateWage(FULL_DAY_HOUR);
                 break;
-            case 2:
+            case PART_TIME_EMPLOYEE:
                 dailyWage = calculateWage(PART_TIME_HOUR);
                 break;
             default:
